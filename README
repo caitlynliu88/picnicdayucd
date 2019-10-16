@@ -1,5 +1,7 @@
 # As the Picnic Day Parade Director for 2019, I wanted to streamline the process of calculating how much space each Parade participant requires because I did not want my Assistant Directors and I to calculate sqaure footages by hand. 
 
+# See it in action: https://www.youtube.com/watch?v=gjMNwZbPbVA
+
 # This Python script calculates the staging area square footage for each Parade entry. Walking groups have raw square footage because they are staged on the grass, and other groups are staged in the parking lot (hence the parking spaces unit). 
 
 # Future iterations of this project include:
